@@ -5,4 +5,4 @@
 
 
 ##preview 
-(.\assets\gi.gif)
+[application preview](.\assets\gi.gif)
